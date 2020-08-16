@@ -4,7 +4,7 @@
 I love programming and I'm currently diving into the world of web development.
 <br/> I'm also selling Garry's Mod content at [Gmodstore](https://www.gmodstore.com/users/SmOkEwOw/addons).
 
- :mortar_board:  &nbsp; Studying Computer Science at Instituto Superior Técnico, University of Lisbon.
+ :mortar_board:  &nbsp; Computer Science and Engineering Student at Instituto Superior Técnico, University of Lisbon.
  <br/> :purple_heart: &nbsp; Looking to collaborate in projects using ReactJS.
  <br/> :blush: &nbsp; I can help you get started with Garry's Mod Lua.
  <br/> :computer: &nbsp; Currently working with NodeJS, ReactJS & Typescript.
