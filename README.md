@@ -2,56 +2,39 @@
 I started my front-end developer career in 2019 and I'm currently moving towards full stack development.
 
  :mortar_board:  &nbsp; Studying Computer Science and Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), University of Lisbon
- <br/> :purple_heart: &nbsp; Looking to collaborate in projects using Next.js and Typescript
- <br/> :blush: &nbsp; I can help you get started with React.js or Typescript
- <br/> :computer: &nbsp; Currently working with Next.js & React.js
- <br/> :books:  &nbsp; Currently learning how to use AWS
+ <br/> :computer: &nbsp; Currently developing scientific software @ [ScientISST](https://github.com/scientisst/), [Instituto de Telecomunicações](https://it.pt/)
+ <br/> :blush: &nbsp; I can help you get started with front-end development
  
- # Contact Me
+ 
+ ---
+ 
+Please feel free to contact me by any of the following methods
  
 [![Linkedin Badge](https://img.shields.io/badge/Rui%20Maciel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruigmaciel/) 
 [![Gmail Badge](https://img.shields.io/badge/ruigouveiamaciel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruigouveiamaciel@gmail.com)
 [![Steam Badge](https://img.shields.io/badge/SmOkEwOw-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SmOkEwOw/)
 ![Discord Badge](https://img.shields.io/badge/SmOkEwOw%230398-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-# Languages & Technologies
+---
 
-These are all the languages, tools and other technologies that I have experience with...
+Below I list the programming languages, frameworks and databases I like the most
 
-### FRONTEND
+![HTML](https://img.shields.io/badge/HTML-EF652A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2965f1?&style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffea00?style=for-the-badge&logo=javascript&logoColor=181818)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+ <br/> ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-010101?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-5a67d8?style=for-the-badge&logo=Prisma&logoColor=white)
+ <br/> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-232f3e?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS Badge](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logoColor=61DAFB)
-![Styled-Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### BACKEND
-
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS Badge](https://img.shields.io/badge/NestJS-404D59?style=for-the-badge)
-![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### DATABASES
-
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### OTHER
-
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+**Note:** to avoid making a huge list, this list includes only what I think is most relevant
