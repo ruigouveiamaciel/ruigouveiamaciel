@@ -1,5 +1,5 @@
 ### Hello there 👋
-I started my front-end developer career in 2019 and I'm currently moving towards full stack development.
+I started my front-end development career in 2019 and I'm currently moving towards full stack development.
 
  :mortar_board:  &nbsp; Studying Computer Science and Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), University of Lisbon
  <br/> :computer: &nbsp; Currently developing scientific software @ [ScientISST](https://github.com/scientisst/), [Instituto de Telecomunicações](https://it.pt/)
