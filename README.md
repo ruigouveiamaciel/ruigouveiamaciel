@@ -4,37 +4,13 @@ I started my front-end development career in 2019 and I'm currently moving towar
  :mortar_board:  &nbsp; Studying Computer Science and Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), University of Lisbon
  <br/> :computer: &nbsp; Currently developing scientific software @ [ScientISST](https://github.com/scientisst/), [Instituto de Telecomunicações](https://it.pt/)
  <br/> :blush: &nbsp; I can help you get started with front-end development
- 
- 
- ---
- 
-Please feel free to contact me by any of the following methods
- 
-[![Linkedin Badge](https://img.shields.io/badge/Rui%20Maciel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruigmaciel/) 
-[![Gmail Badge](https://img.shields.io/badge/ruigouveiamaciel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruigouveiamaciel@gmail.com)
-[![Steam Badge](https://img.shields.io/badge/SmOkEwOw-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SmOkEwOw/)
-![Discord Badge](https://img.shields.io/badge/SmOkEwOw%230398-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
----
-
-Below I list the programming languages, frameworks and databases I like the most
-
-![HTML](https://img.shields.io/badge/HTML-EF652A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965f1?&style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffea00?style=for-the-badge&logo=javascript&logoColor=181818)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
- <br/> ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-
-![NestJS](https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-010101?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-5a67d8?style=for-the-badge&logo=Prisma&logoColor=white)
- <br/> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-232f3e?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-**Note:** to avoid making a huge list, this list includes only what I think is most relevant
+| **Category** | **Technologies** |
+| - | - |
+| **Languages** | [![TypeScript](https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&logoColor=FFFFFF&color=3178c6)](https://typescript.com) [![Rust](https://img.shields.io/static/v1?label=&logo=rust&message=Rust&logoColor=FFFFFF&color=a72145)](https://rust-lang.org) [![Python](https://img.shields.io/static/v1?label=&logo=python&message=Python&logoColor=FFFFFF&color=3776AB)](https://www.python.org) [![C++](https://img.shields.io/static/v1?label=&logo=c%2B%2B&message=C%2B%2B&logoColor=FFFFFF&color=044F88)](https://cplusplus.com) [![C](https://img.shields.io/static/v1?label=&logo=c&message=C&logoColor=FFFFFF&color=044F88)](https://en.wikipedia.org%2Fwiki%2FC_%28programming_language%29) [![Bash](https://img.shields.io/static/v1?label=&logo=gnubash&message=Bash&logoColor=FFFFFF&color=4EAA25)](https://www.gnu.org/software/bash) [![JavaScript](https://img.shields.io/static/v1?label=&logo=javascript&message=JavaScript&logoColor=000000&color=ffea00)](https://javascript.com) |
+| **Frontend** | [![React](https://img.shields.io/static/v1?label=&logo=react&message=React&color=20232a)](https://typescript.com) [![Vite](https://img.shields.io/static/v1?label=&logo=vite&message=Vite&logoColor=FFFFFF&color=646cff)](https://typescript.com) [![Storybook](https://img.shields.io/static/v1?label=&logo=storybook&message=Storybook&logoColor=FFFFFF&color=FF4785)](storybook.js.org) [![Tailwind CSS](https://img.shields.io/static/v1?label=&logo=tailwind-css&message=Tailwind&logoColor=FFFFFF&color=38bdf8)](https://tailwindcss.com) [![Styled-Components](https://img.shields.io/static/v1?label=&logo=styled-components&message=Styled-components&logoColor=FFFFFF&color=DB7093)](https://styled-components.com) [![Next.js](https://img.shields.io/static/v1?label=&logo=next.js&message=Next.JS&logoColor=FFFFFF&color=000000)](https://nextjs.org) |
+| **Testing** | [![Jest](https://img.shields.io/static/v1?label=&logo=jest&message=Jest&color=df162b)](https://jestjs.io) |
+| **Backend** | [![NestJS](https://img.shields.io/static/v1?label=&logo=nestjs&message=NestJS&logoColor=FFFFFF&color=ea2845)](https://nestjs.com) [![Express](https://img.shields.io/static/v1?label=&logo=express&message=Express&logoColor=FFFFFF&color=010101)](https://expressjs.com) [![Prisma](https://img.shields.io/static/v1?label=&logo=prisma&message=Prisma&logoColor=FFFFFF&color=5a67d8)](https://prisma.io) |
+| **Databases** | [![PostgreSQL](https://img.shields.io/static/v1?label=&logo=postgresql&message=PostgreSQL&logoColor=FFFFFF&color=699eca)](https://postgresql.org) [![MongoDB](https://img.shields.io/static/v1?label=&logo=mongodb&message=MongoDB&logoColor=FFFFFF&color=001E2B)](https://mongodb.com) [![Prisma](https://img.shields.io/static/v1?label=&logo=prisma&message=Prisma&logoColor=FFFFFF&color=5a67d8)](https://prisma.io) |
+| **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&logo=docker&message=Docker&logoColor=FFFFFF&color=2496ED)](https://docker.com)  [![GitHub CI](https://img.shields.io/static/v1?label=&logo=github&message=GitHub&logoColor=FFFFFF&color=181717)](https://github.com)  [![GitLab CI](https://img.shields.io/static/v1?label=&logo=gitlab&message=GitLab&logoColor=FFFFFF&color=FC6D26)](https://gitlab.com) |
+| **Distributions** | [![NixOS](https://img.shields.io/static/v1?label=&logo=nixos&message=NixOS&logoColor=FFFFFF&color=5277C3)](https://nixos.org) [![Ubuntu](https://img.shields.io/static/v1?label=&logo=ubuntu&message=Ubuntu&logoColor=FFFFFF&color=E95420)](https://ubuntu.com) |
