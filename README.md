@@ -1,9 +1,8 @@
 ### Hello there 👋
-I started my front-end development career in 2019 and I'm currently moving towards full stack development.
 
- :mortar_board:  &nbsp; Studying Computer Science and Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), University of Lisbon
- <br/> :computer: &nbsp; Currently developing scientific software @ [ScientISST](https://github.com/scientisst/), [Instituto de Telecomunicações](https://it.pt/)
- <br/> :blush: &nbsp; I can help you get started with front-end development
+:computer: &nbsp; Working as Frontend Developer @ [Bliss Applications](https://blissapplications.com/), consulting for [JPMorgan Chase & Co.](https://jpmorganchase.com/)
+ <br/> :mortar_board:  &nbsp; Finishing my Bachelor's on Computer Science and Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), University of Lisbon
+ 
 
 | **Category** | **Technologies** |
 | - | - |
@@ -11,6 +10,6 @@ I started my front-end development career in 2019 and I'm currently moving towar
 | **Frontend** | [![React](https://img.shields.io/static/v1?label=&logo=react&message=React&color=20232a)](https://typescript.com) [![Vite](https://img.shields.io/static/v1?label=&logo=vite&message=Vite&logoColor=FFFFFF&color=646cff)](https://typescript.com) [![Storybook](https://img.shields.io/static/v1?label=&logo=storybook&message=Storybook&logoColor=FFFFFF&color=FF4785)](storybook.js.org) [![Tailwind CSS](https://img.shields.io/static/v1?label=&logo=tailwind-css&message=Tailwind&logoColor=FFFFFF&color=38bdf8)](https://tailwindcss.com) [![Styled-Components](https://img.shields.io/static/v1?label=&logo=styled-components&message=Styled-components&logoColor=FFFFFF&color=DB7093)](https://styled-components.com) [![Next.js](https://img.shields.io/static/v1?label=&logo=next.js&message=Next.JS&logoColor=FFFFFF&color=000000)](https://nextjs.org) |
 | **Testing** | [![Jest](https://img.shields.io/static/v1?label=&logo=jest&message=Jest&color=df162b)](https://jestjs.io) |
 | **Backend** | [![NestJS](https://img.shields.io/static/v1?label=&logo=nestjs&message=NestJS&logoColor=FFFFFF&color=ea2845)](https://nestjs.com) [![Express](https://img.shields.io/static/v1?label=&logo=express&message=Express&logoColor=FFFFFF&color=010101)](https://expressjs.com) [![Prisma](https://img.shields.io/static/v1?label=&logo=prisma&message=Prisma&logoColor=FFFFFF&color=5a67d8)](https://prisma.io) |
-| **Databases** | [![PostgreSQL](https://img.shields.io/static/v1?label=&logo=postgresql&message=PostgreSQL&logoColor=FFFFFF&color=699eca)](https://postgresql.org) [![MongoDB](https://img.shields.io/static/v1?label=&logo=mongodb&message=MongoDB&logoColor=FFFFFF&color=001E2B)](https://mongodb.com) [![Prisma](https://img.shields.io/static/v1?label=&logo=prisma&message=Prisma&logoColor=FFFFFF&color=5a67d8)](https://prisma.io) |
+| **Databases** | [![PostgreSQL](https://img.shields.io/static/v1?label=&logo=postgresql&message=PostgreSQL&logoColor=FFFFFF&color=699eca)](https://postgresql.org) [![MongoDB](https://img.shields.io/static/v1?label=&logo=mongodb&message=MongoDB&logoColor=FFFFFF&color=001E2B)](https://mongodb.com) |
 | **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&logo=docker&message=Docker&logoColor=FFFFFF&color=2496ED)](https://docker.com)  [![GitHub CI](https://img.shields.io/static/v1?label=&logo=github&message=GitHub&logoColor=FFFFFF&color=181717)](https://github.com)  [![GitLab CI](https://img.shields.io/static/v1?label=&logo=gitlab&message=GitLab&logoColor=FFFFFF&color=FC6D26)](https://gitlab.com) |
 | **Distributions** | [![NixOS](https://img.shields.io/static/v1?label=&logo=nixos&message=NixOS&logoColor=FFFFFF&color=5277C3)](https://nixos.org) [![Ubuntu](https://img.shields.io/static/v1?label=&logo=ubuntu&message=Ubuntu&logoColor=FFFFFF&color=E95420)](https://ubuntu.com) |
