@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-:computer: &nbsp; Working as Frontend Developer @ [Bliss Applications](https://blissapplications.com/), consulting for [JPMorgan Chase & Co.](https://jpmorganchase.com/)
- <br/> :mortar_board:  &nbsp; Finishing my Bachelor's on Computer Science and Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), University of Lisbon
- 
+
 
 | **Category** | **Technologies** |
 | - | - |
